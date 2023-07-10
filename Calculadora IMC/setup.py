@@ -13,7 +13,7 @@ setup(
     author_email="hanieri21@gmail.com",
     description="Calculadora de IMC simples",
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/Hanieri21/Hanieri21/tree/imc/Calculadora%20IMC",
     packages=find_packages(),
     install_requires=requirements
 )
